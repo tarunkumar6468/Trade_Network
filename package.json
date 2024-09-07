@@ -1,7 +1,7 @@
 {
   "name": "intergalactic-trade-network",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "gateway.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
