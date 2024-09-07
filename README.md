@@ -32,6 +32,7 @@ git clone https://github.com//your-repo-name.git](https://github.com/tarunkumar6
 
 
 cd intergralatic_trade_network
+cd src
 
 
 npm install
